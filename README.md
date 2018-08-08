@@ -13,7 +13,7 @@ Then, go through the **Bootstrap 4, Templates, And Building Your Startup Landing
 
 ## The Rules Are:
 
-1. You HAVE TO use two things from Creative Tim - Starter Project: https://github.com/timcreative/udemy-nuk and the NOW UI Kit: https://www.creative-tim.com/product/now-ui-kit. You will use those to start off the project but you can customiaze or add to it whatever you like afterwards. Be creative. 
+1. You HAVE TO use two things from Creative Tim - Starter Project: https://github.com/timcreative/udemy-nuk and the NOW UI Kit: https://www.creative-tim.com/product/now-ui-kit. You will use those to start off the project but you can customaize or add to it whatever you like afterwards. Be creative. 
 
 2. **You have until August 30th at 11:59pm EST** to submit your solution file (using Github. If you don't know how to do that, check out the lecture in the Git + Github section of the course). You will have to submit the link to the **#coding-challenge** Discord group with the following message:  -challenge github.com/<username>/<repo> . The bot will listen for the command in any channel its in and will reply with "thanks for your submission" if it succeeded. Winner will be announced a couple of weeks after the contest ends.
 
